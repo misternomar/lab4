@@ -16,7 +16,12 @@ h1 {
 #nav {
     color: #000000;
     font-size: large;
+    font-weight: bold;
     text-decoration: none;
+}
+
+#nav:hover {
+    color: #FFFFFF;
 }
 
 img {
