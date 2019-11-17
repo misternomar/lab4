@@ -8,3 +8,17 @@ body {
     background-color: #CBE2F6;
     text-align: center;
 }
+
+h1 {
+    color: #426287;
+}
+
+#nav {
+    color: #000000;
+    font-size: large;
+    text-decoration: none;
+}
+
+img {
+    margin: auto;
+}
